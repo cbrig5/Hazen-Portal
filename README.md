@@ -1,10 +1,13 @@
 # SUNY Brockport Hazen Health Center App
 
-Simple overview of use/purpose.
+IOS App for Brockports Hazen Health Center
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The goal of this app is to make a more friendly user experience
+for brockport students. This app will allow students to easily
+make appointments, submit health records and access important
+resources.
 
 ## Authors
 
